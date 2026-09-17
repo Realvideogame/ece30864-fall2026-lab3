@@ -18,3 +18,8 @@ what from the backlog will become part of the sprint. Then story points should b
 work they plan to do, and any blockers that they may need help with.
 3. Sprint retrospective meeting. This occurs at the end of a current sprint. Discussion of the past sprint and
 moving of uncompleted work back into backlog. At the end of this meeting the current sprint should be closed.
+
+d. Epic are larger pieces of work for a project that can be broken down into smaller pieces. These can be tasks or
+stories. A story represents some real value to either an end user or a customer. They are often named in a way that 
+reflects on the customer/user wanting a feature. A task is a more internal facing feature, like tooling, that does not
+directly get seen or used by the end user. A bug is a type of task that denotes an issue, often with another story or task.
