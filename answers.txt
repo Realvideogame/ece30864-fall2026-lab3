@@ -10,3 +10,11 @@ b. The product owner is the one who actually manages the implementation of a pro
 releases, direction for the team, and managing stakeholders. The scrum master is concerned with only the 
 scrum related tasks. Which includes working with Jira, tooling, managing and facilitating sprints and related meetings.
 So they should be making sure the state of a project on Jira matches reality.
+
+c. 
+1. Sprint planning meeting. Determines what will happen and be done in the next sprint. This involves deciding
+what from the backlog will become part of the sprint. Then story points should be assigned and the sprint must be started.
+2. Daily scrum or standup. This is a short daily meeting where all members of a team will briefly discuss work they have done,
+work they plan to do, and any blockers that they may need help with.
+3. Sprint retrospective meeting. This occurs at the end of a current sprint. Discussion of the past sprint and
+moving of uncompleted work back into backlog. At the end of this meeting the current sprint should be closed.
