@@ -1,0 +1,7 @@
+a. Agile is more adaptable to constantly adjusting scope and expectations since you can adjust
+goals per sprint to accomodate to the customer. It brings constant value to a customer since each 
+sprint aims to ship real features.
+
+Scope can creep over time with sprints and lose sight of what the
+customer needs, creating a backlog of tasks that can become unrelated to what is needed. Since sprints are short
+and adaptable, there is low predictability, which makes long term planning harder compared to the waterfall method.
