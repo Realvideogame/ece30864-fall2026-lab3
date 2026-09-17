@@ -5,3 +5,8 @@ sprint aims to ship real features.
 Scope can creep over time with sprints and lose sight of what the
 customer needs, creating a backlog of tasks that can become unrelated to what is needed. Since sprints are short
 and adaptable, there is low predictability, which makes long term planning harder compared to the waterfall method.
+
+b. The product owner is the one who actually manages the implementation of a project. They handle things like
+releases, direction for the team, and managing stakeholders. The scrum master is concerned with only the 
+scrum related tasks. Which includes working with Jira, tooling, managing and facilitating sprints and related meetings.
+So they should be making sure the state of a project on Jira matches reality.
